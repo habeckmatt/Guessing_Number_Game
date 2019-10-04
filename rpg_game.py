@@ -32,14 +32,9 @@ def male_adventure():
         sorcerer_name = str(input("Enter evil sorcerer's name: "))
         rogue_name = str(input("Enter rogue's name: "))
 
-        print(f"The great {male_name} and his queen {queen_name} peacefully rules the kingdom of {kingdom_name}.
-        However, a great war called Bizarre erupted. {male_name}'s nemesis {villian_name} invaded his kingdom. 
-        With the help of {thief_name}, {sorcerer_name}, and {rogue_name}, {villian_name} pillaged their land, 
-        stole precious resources, and brutally attacked their villagers.")
+        print(f"The great {male_name} and his queen {queen_name} peacefully rules the kingdom of {kingdom_name}. However, a great war called Bizarre erupted. {male_name}'s nemesis {villian_name} invaded his kingdom. With the help of {thief_name}, {sorcerer_name}, and {rogue_name}, {villian_name} pillaged their land, stole precious resources, and brutally attacked their villagers.")
 
-        print(f"{male_name} and {queen_name} with the help of {paladin_name}, {wizard_name}, and {warrior_name} 
-        valiantly fought back and defeated {villian_name} after {war_length} years of fierce fighting. Order was 
-        finally restored and everyone in {kingdom_name} lived happily every after!")
+        print(f"{male_name} and {queen_name} with the help of {paladin_name}, {wizard_name}, and {warrior_name} valiantly fought back and defeated {villian_name} after {war_length} years of fierce fighting. Order was finally restored and everyone in {kingdom_name} lived happily every after!")
 
     elif allies == 'y' and enemies == 'n':
         paladin_name = str(input("Enter your paladin's name: "))
@@ -50,8 +45,7 @@ def male_adventure():
         rogue_name = str(input("Enter rogue's name: "))
 
         print(f"The great {male_name} and his queen {queen_name} peacefully rules the kingdom of {kingdom_name}.")
-        print(f"{male_name} and {queen_name} with the help of {paladin_name}, {wizard_name}, and {warrior_name} 
-        they keep the peace in their {kingdom_name}!")
+        print(f"{male_name} and {queen_name} with the help of {paladin_name}, {wizard_name}, and {warrior_name} they keep the peace in their {kingdom_name}!")
 
 
     elif allies == 'n' and enemies == 'y':
@@ -63,10 +57,7 @@ def male_adventure():
         sorcerer_name = str(input("Enter evil sorcerer's name: "))
         rogue_name = str(input("Enter rogue's name: "))
 
-        print(f"The great {male_name} and his queen {queen_name} peacefully rules the kingdom of {kingdom_name}. 
-        However, a great war called Bizarre erupted. {male_name}'s nemesis {villian_name} invaded his kingdom. 
-        With the help of {thief_name}, {sorcerer_name}, and {rogue_name}, {villian_name} pillaged their land, 
-        stole precious resources, and brutally attacked their villagers.")
+        print(f"The great {male_name} and his queen {queen_name} peacefully rules the kingdom of {kingdom_name}. However, a great war called Bizarre erupted. {male_name}'s nemesis {villian_name} invaded his kingdom. With the help of {thief_name}, {sorcerer_name}, and {rogue_name}, {villian_name} pillaged their land, stole precious resources, and brutally attacked their villagers.")
 
         print(f"{male_name} and {queen_name} reign has come to an end because they have no help!")
 
@@ -111,14 +102,9 @@ def female_adventure():
         sorcerer_name = str(input("Enter evil sorcerer's name: "))
         rogue_name = str(input("Enter rogue's name: "))
 
-        print(f"The great {female_name} and his queen {king_name} peacefully rules the kingdom of {kingdom_name}. 
-        However, a great war called Bizarre erupted. {female_name}'s nemesis {villian_name} invaded his kingdom. 
-        With the help of {thief_name}, {sorcerer_name}, and {rogue_name}, {villian_name} pillaged their land, 
-        stole precious resources, and brutally attacked their villagers.")
+        print(f"The great {female_name} and his queen {king_name} peacefully rules the kingdom of {kingdom_name}. However, a great war called Bizarre erupted. {female_name}'s nemesis {villian_name} invaded his kingdom. With the help of {thief_name}, {sorcerer_name}, and {rogue_name}, {villian_name} pillaged their land, stole precious resources, and brutally attacked their villagers.")
 
-        print(f"{female_name} and {king_name} with the help of {paladin_name}, {wizard_name}, and {warrior_name} 
-        valiantly fought back and defeated {villian_name} after {war_length} years of fierce fighting. Order was 
-        finally restored and everyone in {kingdom_name} lived happily every after!")
+        print(f"{female_name} and {king_name} with the help of {paladin_name}, {wizard_name}, and {warrior_name} valiantly fought back and defeated {villian_name} after {war_length} years of fierce fighting. Order was finally restored and everyone in {kingdom_name} lived happily every after!")
 
     elif allies == 'y' and enemies == 'n':
         paladin_name = str(input("Enter your paladin's name: "))
@@ -130,8 +116,7 @@ def female_adventure():
 
         print(f"The great {female_name} and his queen {king_name} peacefully rules the kingdom of {kingdom_name}.")
 
-        print(f"{female_name} and {king_name} with the help of {paladin_name}, {wizard_name}, and {warrior_name} 
-        they keep the peace in their {kingdom_name}!")
+        print(f"{female_name} and {king_name} with the help of {paladin_name}, {wizard_name}, and {warrior_name} they keep the peace in their {kingdom_name}!")
 
 
     elif allies == 'n' and enemies == 'y':
@@ -143,10 +128,7 @@ def female_adventure():
         sorcerer_name = str(input("Enter evil sorcerer's name: "))
         rogue_name = str(input("Enter rogue's name: "))
 
-        print(f"The great {female_name} and his queen {king_name} peacefully rules the kingdom of {kingdom_name}. 
-        However, a great war called Bizarre erupted. {female_name}'s nemesis {villian_name} invaded his kingdom. 
-        With the help of {thief_name}, {sorcerer_name}, and {rogue_name}, {villian_name} pillaged their land, 
-        stole precious resources, and brutally attacked their villagers.")
+        print(f"The great {female_name} and his queen {king_name} peacefully rules the kingdom of {kingdom_name}. However, a great war called Bizarre erupted. {female_name}'s nemesis {villian_name} invaded his kingdom. With the help of {thief_name}, {sorcerer_name}, and {rogue_name}, {villian_name} pillaged their land, stole precious resources, and brutally attacked their villagers.")
 
         print(f"{female_name} and {king_name} reign has come to an end because they have no help!")
 
