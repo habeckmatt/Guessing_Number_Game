@@ -32,7 +32,7 @@ def male_adventure():
         sorcerer_name = str(input("Enter evil sorcerer's name: "))
         rogue_name = str(input("Enter rogue's name: "))
 
-        print(f"The great {male_name} and his queen {queen_name} peacefully rules the kingdom of {kingdom_name}.") 
+        print(f"The great {male_name} and his queen {queen_name} peacefully rules the kingdom of {kingdom_name}.
         However, a great war called Bizarre erupted. {male_name}'s nemesis {villian_name} invaded his kingdom. 
         With the help of {thief_name}, {sorcerer_name}, and {rogue_name}, {villian_name} pillaged their land, 
         stole precious resources, and brutally attacked their villagers.")
